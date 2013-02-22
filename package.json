@@ -1,0 +1,15 @@
+{
+  "name": "echojs",
+  "version": "0.1.0",
+  "description": "Echonest API for Node.js and browsers.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "rem": "~0.6.3-1"
+  },
+  "repository": "http://github.com/tcr/echojs",
+  "author": "Tim Cameron Ryan",
+  "license": "MIT"
+}
