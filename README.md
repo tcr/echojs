@@ -27,7 +27,7 @@ echo('song/search').get({
 });
 ```
 
-Check out the [examples for different parts of the API](https://github.com/olinjs/echojs/tree/master/example)
+Check out the [examples for different parts of the API](https://github.com/olinjs/tcr/tree/master/example)
 
 ## License
 
