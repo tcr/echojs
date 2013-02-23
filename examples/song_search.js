@@ -1,9 +1,9 @@
 var echojs = require('..');
-
 var echo = echojs({
   key: process.env.ECHONEST_KEY
 });
 
+// http://developer.echonest.com/docs/v4/song.html#search
 echo('song/search').get({
   artist: 'radiohead',
   title: 'karma police'
