@@ -1,6 +1,6 @@
 {
   "name": "echojs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Echonest API for Node.js and browsers.",
   "main": "index.js",
   "directories": {
