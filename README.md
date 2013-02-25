@@ -25,12 +25,17 @@ echo('song/search').get({
 });
 ```
 
-## Links
+## Steps
 
 * **Register for an API key:** <https://developer.echonest.com/account/profile>
 * **API Documentation:** <http://developer.echonest.com/docs/v4>
 * **[Read examples for the Echonest API](https://github.com/tcr/echojs/tree/master/examples)**
 * **[Submit issues or pull requests](https://github.com/tcr/echojs/issues)**
+
+## Links
+
+* **[Remix.js](http://echonest.github.com/remix/javascript.html)** &mdash; Uses the HTML5 Audio API to remix sound in your browser.
+* **[jquery.rdio.js](https://github.com/rdio/jquery.rdio.js)** &mdash; Play music from Rdio's Web Playback API. 30 second samples for free, and full music streams available to Rdio subscribers.
 
 ## License
 
